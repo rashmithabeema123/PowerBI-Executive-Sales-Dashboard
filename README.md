@@ -28,4 +28,4 @@ An interactive sales dashboard developed using Microsoft Power BI to analyze sal
 Practiced building interactive dashboards, analyzing business KPIs, and presenting sales insights through visualizations.
 
 ## Dashboard Preview
-See the uploaded dashboard image in this repository: `power bi.jpg`.
+![Power BI Executive Sales Dashboard](power%20bi.jpg)
